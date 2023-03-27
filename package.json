@@ -1,0 +1,21 @@
+{
+  "name": "msw-repro",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest test.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.5.0",
+    "isomorphic-fetch": "^3.0.0",
+    "jest": "27.5.1",
+    "jest-fetch-mock": "^3.0.3",
+    "msw": "next",
+    "whatwg-fetch": "^3.6.2"
+  }
+}
